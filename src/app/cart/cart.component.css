@@ -1,0 +1,15 @@
+h3 {
+    color: #1976d2;
+}
+
+mat-card {
+    margin-bottom: 20px;
+}
+
+form {
+    margin-top: 50px;
+}
+
+mat-form-field {
+    margin-bottom: 20px;
+}
